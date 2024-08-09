@@ -16,7 +16,7 @@ Amy Hurst
 
 ## About My Project
 
-Project description goes here.
+This summer I am working on modifying the Teenage Engineering Modular Synthesizer 400 to be used by blind and low vision musicians. 
 
 [My Final Report](files/finalreport.pdf)
 
