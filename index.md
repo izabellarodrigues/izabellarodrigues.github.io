@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2024 DREU Project Site
 ---
 
 * TOC
@@ -8,11 +8,11 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Izabella Rodrigues
 
 ## About My Mentor
 
-Mentor info goes here.
+Amy Hurst
 
 ## About My Project
 
