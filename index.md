@@ -25,4 +25,4 @@ file:///Users/izabellarodrigues/Desktop/Final%20CRA-DREU%20Paper%20.pdf
 
 ## My Blog
 
-[My Blog]()
+[My Blog](blog.html)
