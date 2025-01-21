@@ -24,4 +24,4 @@ This summer I am working on modifying the Teenage Engineering Modular Synthesize
 
 ## My Blog
 
-[My Blog](blog.html)
+[My Blog](file:///Users/izabellarodrigues/Desktop/Final%20CRA-DREU%20Paper%20.pdf)
