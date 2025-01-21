@@ -20,8 +20,8 @@ https://amyhurst.com/
 
 This summer I am working on modifying the Teenage Engineering Modular Synthesizer 400 to be used by blind and low vision musicians. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](file:///Users/izabellarodrigues/Desktop/Final%20CRA-DREU%20Paper%20.pdf)
 
 ## My Blog
 
-[My Blog](file:///Users/izabellarodrigues/Desktop/Final%20CRA-DREU%20Paper%20.pdf)
+[My Blog]()
